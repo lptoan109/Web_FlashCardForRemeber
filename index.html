@@ -3,20 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Smart Flashcards - By LPT</title>
-    
+    <title>Smart Flashcards Dashboard</title>
     <link rel="stylesheet" href="style.css">
-
     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
-    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 
 <div class="container">
-    <h1>Smart Flashcards By LPT</h1>
-    <div class="stats" id="stats">Đang tải dữ liệu...</div>
+    <header>
+        <h1>My Learning Dashboard</h1>
+        <div class="stats-grid">
+            <div class="stat-card">
+                <span class="stat-label">Cần học (VN Time)</span>
+                <div class="stat-value" id="due-count">0</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">Tổng số từ</span>
+                <div class="stat-value" id="total-count">0</div>
+            </div>
+        </div>
+    </header>
+
+    <div class="chart-container">
+        <canvas id="levelChart"></canvas>
+    </div>
     
     <div class="flashcard" id="card">
         <div class="card-inner">
@@ -31,21 +44,16 @@
         </div>
     </div>
 
-    <div class="instruction">← Vuốt TRÁI nếu ĐÃ THUỘC | Vuốt PHẢI nếu CHƯA THUỘC →</div>
+    <div class="instruction">← Trái: ĐÃ THUỘC | Phải: CHƯA THUỘC →</div>
 
     <div class="admin-panel">
-        <h4>Nạp từ bằng Excel (CSV)</h4>
-        <input type="file" id="csv-file" accept=".csv">
-        <button class="btn-excel" onclick="uploadCSV()">Tải lên file CSV</button>
-        
-        <h4>Thêm thủ công</h4>
-        <input type="text" id="input-word" placeholder="Từ vựng">
-        <input type="text" id="input-def" placeholder="Nghĩa">
-        <input type="text" id="input-ex" placeholder="Ví dụ (không bắt buộc)">
-        <button class="btn-primary" onclick="addWord()">Thêm vào kho</button>
-
-        <hr>
-        <div id="word-list"></div>
+        <h3>Quản lý dữ liệu</h3>
+        <div class="tab-content">
+            <input type="file" id="csv-file" accept=".csv">
+            <button class="btn-excel" onclick="uploadCSV()">Nạp Excel (CSV)</button>
+            <hr>
+            <div id="word-list"></div>
+        </div>
     </div>
 </div>
 
