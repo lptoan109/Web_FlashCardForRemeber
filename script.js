@@ -1,12 +1,13 @@
 // 1. Firebase Configuration
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    databaseURL: "https://YOUR_PROJECT.firebaseio.com",
-    projectId: "YOUR_PROJECT",
-    storageBucket: "YOUR_PROJECT.appspot.com",
-    messagingSenderId: "...",
-    appId: "..."
+    apiKey: "AIzaSyCF1UfpyK4_nrH68omoeC0U-jd3eUBLj8I",
+    authDomain: "flashcarddatabase-774ec.firebaseapp.com",
+    databaseURL: "https://flashcarddatabase-774ec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "flashcarddatabase-774ec",
+    storageBucket: "flashcarddatabase-774ec.firebasestorage.app",
+    messagingSenderId: "993923644179",
+    appId: "1:993923644179:web:4947ef3afacdcefd93f8e6",
+    measurementId: "G-GQXC5HH3XB"
 };
 
 // Initialize Firebase
