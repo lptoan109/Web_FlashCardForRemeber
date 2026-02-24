@@ -1,0 +1,101 @@
+word,def,ex
+Accelerate,Thúc đẩy/Làm nhanh hơn,The school decided to accelerate the learning process.
+Accessible,Có thể tiếp cận được,The information should be easily accessible to students.
+Accomplish,Hoàn thành/Đạt được,You can accomplish anything with hard work.
+Accumulate,Tích lũy,He accumulated a lot of knowledge during the course.
+Accustomed to,Quen với cái gì,I am accustomed to getting up early to code.
+Acknowledge,Thừa nhận/Công nhận,He acknowledged that he had made a mistake.
+Acquire,Đạt được/Thu nhận,Reading helps you acquire a vast vocabulary.
+Adequate,Đầy đủ/Thỏa đáng,The supply of resources was not adequate for the project.
+Adjust,Điều chỉnh,You can adjust the settings to suit your needs.
+Adolescence,Thời thanh thiếu niên,Adolescence is a period of transition.
+Advantageous,Có lợi,It would be advantageous to learn a second language.
+Advocate,Ủng hộ/Tán thành,She advocates for environmental protection.
+Alleviate,Giảm bớt,The new medicine helps alleviate the pain.
+Ambiguous,Mơ hồ/Nhập nhằng,His reply to my question was somewhat ambiguous.
+Anticipate,Dự đoán/Lường trước,We anticipate that the prices will rise next month.
+Apparent,Rõ ràng,It became apparent that the plan would not work.
+Appreciate,Trân trọng/Đánh giá cao,I really appreciate your help.
+Appropriate,Phù hợp,Is this film appropriate for small children?
+Approximate,Xấp xỉ,The approximate cost of the trip is 500 dollars.
+Artificial,Nhân tạo,Artificial Intelligence is changing the world.
+Aspire to,Khao khát,Many people aspire to greatness.
+Assess,Đánh giá,Teachers assess the progress of their students.
+Assumption,Giả định,We are working on the assumption that it will rain.
+Attain,Đạt được,She attained a high level of fitness.
+Attribute to,Quy cho là do,The success was attributed to hard work.
+Authentic,Đích thực/Xác thực,It is an authentic Italian restaurant.
+Beneficial,Có lợi,Regular exercise is beneficial to health.
+Chronological,Theo thứ tự thời gian,The books are arranged in chronological order.
+Coincide,Trùng hợp,My holiday coincides with the wedding.
+Collaborate,Cộng tác,Researchers are collaborating on the new project.
+Commence,Bắt đầu,The ceremony will commence at 10 am.
+Compensate,Đền bù/Bồi thường,Nothing can compensate for the loss of a loved one.
+Competent,Có năng lực/Thành thạo,He is a competent computer programmer.
+Complement,Bổ sung cho nhau,The wine complements the food perfectly.
+Complex,Phức tạp,The situation is very complex.
+Comply with,Tuân thủ,All students must comply with the rules.
+Comprehensive,Toàn diện,The book provides a comprehensive guide to the city.
+Compulsory,Bắt buộc,English is a compulsory subject at school.
+Concede,Thừa nhận/Nhượng bộ,The government conceded that the policy was a failure.
+Conceive,Hình dung/Tưởng tượng,It is hard to conceive of a world without internet.
+Conclusive,Thuyết phục/Xác đáng,There is no conclusive evidence of his guilt.
+Concurrent,Đồng thời,He was given two concurrent prison sentences.
+Confidential,Bảo mật,The information is strictly confidential.
+Confine,Hạn chế/Giam cầm,The work is not confined to the office.
+Conform to,Tuân thủ theo tiêu chuẩn,The building must conform to safety regulations.
+Consecutive,Liên tiếp,It rained for three consecutive days.
+Consequence,Hệ quả,Every action has a consequence.
+Considerable,Đáng kể,He made a considerable amount of money.
+Consistent,Nhất quán,His results are consistent with our findings.
+Consolidate,Củng cố/Hợp nhất,They are trying to consolidate their power.
+Conspicuous,Dễ thấy/Đập vào mắt,The notice was placed in a conspicuous position.
+Constitutional,Thuộc về hiến pháp,The change was not constitutional.
+Contradict,Mâu thuẫn với,His statement contradicts the evidence.
+Contribute to,Góp phần vào,Smoking contributes to many health problems.
+Controversial,Gây tranh cãi,The new law is very controversial.
+Conventional,Thông thường/Truyền thống,He has conventional views on education.
+Convey,Truyền tải,Colors can convey different meanings.
+Crucial,Quan trọng/Cốt yếu,Good communication is crucial in a relationship.
+Deceptive,Dễ gây nhầm lẫn,Appearances can be deceptive.
+Decisive,Quyết đoán/Mang tính quyết định,You need to be more decisive.
+Dedicate,Cống hiến,He dedicated his life to science.
+Deficiency,Sự thiếu hụt,The disease is caused by a vitamin deficiency.
+Deliberate,Cố tình/Thận trọng,It was a deliberate attempt to deceive us.
+Demonstrate,Chứng minh/Biểu diễn,He demonstrated how the machine works.
+Depict,Mô tả/Phác họa,The painting depicts a country scene.
+Deprive of,Tước đoạt,Sleep deprivation can affect your health.
+Derive from,Bắt nguồn từ,The word derives from Latin.
+Deteriorate,Xấu đi/Suy giảm,The weather deteriorated rapidly.
+Deviate,Chệch khỏi,The bus had to deviate from its usual route.
+Diminish,Giảm bớt,The pain will diminish over time.
+Discriminate,Phân biệt đối xử,It is illegal to discriminate against people.
+Displace,Thay thế/Dời chỗ,Coal is being displaced by natural gas.
+Distinct,Riêng biệt/Khác biệt,There is a distinct smell of gas.
+Distort,Xuyên tạc/Bóp méo,The newspaper distorted the facts.
+Distribute,Phân phối,The organization distributes food to the poor.
+Diverse,Đa dạng,The city has a very diverse population.
+Dominant,Ưu thế/Thống trị,English is a dominant language in business.
+Drastic,Quyết liệt/Mạnh mẽ,We need to take drastic measures.
+Durable,Bền bỉ,This brand of shoes is very durable.
+Dynamic,Năng động,She is a dynamic young businesswoman.
+Elaborate,Tỉ mỉ/Trau chuốt,He told an elaborate lie.
+Eligible,Đủ điều kiện,He is eligible for early retirement.
+Eliminate,Loại bỏ,We must eliminate the risk of fire.
+Emphasize,Nhấn mạnh,The teacher emphasized the importance of exercise.
+Encounter,Gặp phải,We encountered a number of problems.
+Endure,Chịu đựng/Tồn tại,The fame of the artist will endure forever.
+Enhance,Nâng cao,Good lighting will enhance any room.
+Enormous,Khổng lồ,The cost of the project is enormous.
+Ensure,Đảm bảo,Please ensure that all lights are switched off.
+Equivalent,Tương đương,Eight kilometers is roughly equivalent to five miles.
+Essential,Thiết yếu,Experience is essential for this job.
+Establish,Thiết lập,They established a new business in 2020.
+Estimate,Ước tính,We estimate that the journey will take two hours.
+Evaluate,Đánh giá,It is difficult to evaluate the success of the project.
+Evident,Rõ ràng,It was evident that she was unhappy.
+Evolve,Tiến hóa/Phát triển,The company has evolved over the years.
+Exaggerate,Phóng đại,Don't exaggerate the importance of the news.
+Exceed,Vượt quá,Drivers must not exceed the speed limit.
+Exclude,Loại trừ,The cost of the tour excludes lunch.
+Feasible,Khả thi,It's just not feasible to build a bridge here.
